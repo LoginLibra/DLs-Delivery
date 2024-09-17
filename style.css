@@ -1,0 +1,104 @@
+p {
+	color: royalblue;
+		text-align: center;
+}
+
+.bouton {
+	color: white;
+	font-size: 1em;
+	font-family: "inter";
+ 	font-weight: 600;
+ 	border: 2px #000F08 solid;
+
+    background-color: #000F08;
+    border-radius: 0px;
+    padding: 10px;
+    text-decoration: none;
+
+
+}
+
+.boutonpetit {
+	color: white;
+	font-size: 0.8em;
+	font-family: "inter";
+ 	font-weight: 500;
+ 	border: 1px #000F08 solid;
+
+    background-color: #000F08;
+    border-radius: 0px;
+    padding: 5px;
+    text-decoration: none;
+
+
+}
+
+.centre {
+	text-align :center
+}
+
+.test {    background-color: #000F08;
+			color: white;
+			font-family: "inter";
+			font-size: 1.1em; 
+			text-align: center;
+
+		}
+
+		.DND {color: black;
+			font-family: "inter";
+			font-size: 2em;
+			padding-top: 50px;
+			text-decoration: underline;
+		}
+
+
+h1 {
+
+	color : black;
+	font-size: 1.4em;
+	font-family: "inter";
+}
+
+h2 {
+	color: black;
+	font-size: 2.5em;
+
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+
+  text-align: center;
+
+}
+
+h3 {
+	color: black;
+	font-size: 2em;
+
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+
+  text-align: center;
+
+}
+
+
+
+td {
+	
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 9px;
+    font-family: "Inter", sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
